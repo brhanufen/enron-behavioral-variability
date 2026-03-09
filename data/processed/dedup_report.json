@@ -1,0 +1,11 @@
+{
+  "total_scanned": 517401,
+  "valid_extracted": 517401,
+  "date_filtered": 1042,
+  "dupes_removed": 0,
+  "final_records": 516359,
+  "errors": 0,
+  "unique_senders": 20283,
+  "date_range": "1998-01-04 to 2002-12-21",
+  "sent_folder_pct": 24.6
+}

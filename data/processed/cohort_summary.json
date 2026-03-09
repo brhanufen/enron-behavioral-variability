@@ -1,0 +1,303 @@
+{
+  "filter_min_emails": 500,
+  "filter_min_density": 1.0,
+  "total_senders_in_sent": 322,
+  "cohort_size": 58,
+  "cohort_size_at_300": 76,
+  "cohort_total_sent_emails": 101299,
+  "cohort_total_incoming_emails": 284495,
+  "cohort_date_range": "1998-10-30 to 2002-06-25",
+  "go_no_go": "PASS",
+  "members": [
+    {
+      "sender": "kay.mann@enron.com",
+      "n_sent": 8926,
+      "emails_per_day": 15.46
+    },
+    {
+      "sender": "vince.kaminski@enron.com",
+      "n_sent": 7185,
+      "emails_per_day": 13.96
+    },
+    {
+      "sender": "jeff.dasovich@enron.com",
+      "n_sent": 5363,
+      "emails_per_day": 6.89
+    },
+    {
+      "sender": "chris.germany@enron.com",
+      "n_sent": 5126,
+      "emails_per_day": 5.52
+    },
+    {
+      "sender": "sara.shackleton@enron.com",
+      "n_sent": 4359,
+      "emails_per_day": 4.15
+    },
+    {
+      "sender": "tana.jones@enron.com",
+      "n_sent": 4123,
+      "emails_per_day": 4.22
+    },
+    {
+      "sender": "eric.bass@enron.com",
+      "n_sent": 3030,
+      "emails_per_day": 3.86
+    },
+    {
+      "sender": "matthew.lenhart@enron.com",
+      "n_sent": 2758,
+      "emails_per_day": 4.07
+    },
+    {
+      "sender": "kate.symes@enron.com",
+      "n_sent": 2649,
+      "emails_per_day": 10.81
+    },
+    {
+      "sender": "sally.beck@enron.com",
+      "n_sent": 2518,
+      "emails_per_day": 3.24
+    },
+    {
+      "sender": "john.arnold@enron.com",
+      "n_sent": 2352,
+      "emails_per_day": 3.52
+    },
+    {
+      "sender": "debra.perlingiere@enron.com",
+      "n_sent": 2352,
+      "emails_per_day": 3.19
+    },
+    {
+      "sender": "gerald.nemec@enron.com",
+      "n_sent": 2175,
+      "emails_per_day": 2.25
+    },
+    {
+      "sender": "drew.fossum@enron.com",
+      "n_sent": 2063,
+      "emails_per_day": 4.31
+    },
+    {
+      "sender": "susan.scott@enron.com",
+      "n_sent": 2061,
+      "emails_per_day": 4.12
+    },
+    {
+      "sender": "mark.taylor@enron.com",
+      "n_sent": 1928,
+      "emails_per_day": 1.99
+    },
+    {
+      "sender": "benjamin.rogers@enron.com",
+      "n_sent": 1822,
+      "emails_per_day": 2.25
+    },
+    {
+      "sender": "phillip.love@enron.com",
+      "n_sent": 1772,
+      "emails_per_day": 4.7
+    },
+    {
+      "sender": "richard.sanders@enron.com",
+      "n_sent": 1587,
+      "emails_per_day": 2.08
+    },
+    {
+      "sender": "darron.giron@enron.com",
+      "n_sent": 1581,
+      "emails_per_day": 4.65
+    },
+    {
+      "sender": "mike.mcconnell@enron.com",
+      "n_sent": 1535,
+      "emails_per_day": 4.15
+    },
+    {
+      "sender": "david.delainey@enron.com",
+      "n_sent": 1518,
+      "emails_per_day": 5.28
+    },
+    {
+      "sender": "daren.farmer@enron.com",
+      "n_sent": 1498,
+      "emails_per_day": 3.08
+    },
+    {
+      "sender": "elizabeth.sager@enron.com",
+      "n_sent": 1466,
+      "emails_per_day": 1.5
+    },
+    {
+      "sender": "robin.rodrigue@enron.com",
+      "n_sent": 1442,
+      "emails_per_day": 5.1
+    },
+    {
+      "sender": "john.lavorato@enron.com",
+      "n_sent": 1386,
+      "emails_per_day": 1.93
+    },
+    {
+      "sender": "d..steffes@enron.com",
+      "n_sent": 1378,
+      "emails_per_day": 10.26
+    },
+    {
+      "sender": "carol.clair@enron.com",
+      "n_sent": 1328,
+      "emails_per_day": 3.07
+    },
+    {
+      "sender": "steven.kean@enron.com",
+      "n_sent": 1230,
+      "emails_per_day": 1.78
+    },
+    {
+      "sender": "phillip.allen@enron.com",
+      "n_sent": 1203,
+      "emails_per_day": 2.31
+    },
+    {
+      "sender": "j.kaminski@enron.com",
+      "n_sent": 1192,
+      "emails_per_day": 4.58
+    },
+    {
+      "sender": "louise.kitchen@enron.com",
+      "n_sent": 1134,
+      "emails_per_day": 2.06
+    },
+    {
+      "sender": "chris.dorland@enron.com",
+      "n_sent": 1128,
+      "emails_per_day": 1.43
+    },
+    {
+      "sender": "michelle.cash@enron.com",
+      "n_sent": 1100,
+      "emails_per_day": 1.49
+    },
+    {
+      "sender": "scott.neal@enron.com",
+      "n_sent": 1093,
+      "emails_per_day": 1.78
+    },
+    {
+      "sender": "jeffrey.shankman@enron.com",
+      "n_sent": 1025,
+      "emails_per_day": 6.96
+    },
+    {
+      "sender": "lynn.blair@enron.com",
+      "n_sent": 1009,
+      "emails_per_day": 4.67
+    },
+    {
+      "sender": "kimberly.watson@enron.com",
+      "n_sent": 971,
+      "emails_per_day": 3.18
+    },
+    {
+      "sender": "mark.haedicke@enron.com",
+      "n_sent": 913,
+      "emails_per_day": 1.2
+    },
+    {
+      "sender": "mike.grigsby@enron.com",
+      "n_sent": 858,
+      "emails_per_day": 1.51
+    },
+    {
+      "sender": "marie.heard@enron.com",
+      "n_sent": 786,
+      "emails_per_day": 3.69
+    },
+    {
+      "sender": "m..presto@enron.com",
+      "n_sent": 783,
+      "emails_per_day": 2.99
+    },
+    {
+      "sender": "matt.smith@enron.com",
+      "n_sent": 737,
+      "emails_per_day": 1.52
+    },
+    {
+      "sender": "rick.buy@enron.com",
+      "n_sent": 728,
+      "emails_per_day": 1.43
+    },
+    {
+      "sender": "james.derrick@enron.com",
+      "n_sent": 686,
+      "emails_per_day": 1.22
+    },
+    {
+      "sender": "stanley.horton@enron.com",
+      "n_sent": 682,
+      "emails_per_day": 1.62
+    },
+    {
+      "sender": "errol.mclaughlin@enron.com",
+      "n_sent": 675,
+      "emails_per_day": 1.11
+    },
+    {
+      "sender": "shelley.corman@enron.com",
+      "n_sent": 633,
+      "emails_per_day": 3.49
+    },
+    {
+      "sender": "m..love@enron.com",
+      "n_sent": 599,
+      "emails_per_day": 4.55
+    },
+    {
+      "sender": ".ward@enron.com",
+      "n_sent": 575,
+      "emails_per_day": 3.14
+    },
+    {
+      "sender": "hunter.shively@enron.com",
+      "n_sent": 575,
+      "emails_per_day": 1.81
+    },
+    {
+      "sender": "joe.parks@enron.com",
+      "n_sent": 559,
+      "emails_per_day": 1.36
+    },
+    {
+      "sender": "tracy.geaccone@enron.com",
+      "n_sent": 548,
+      "emails_per_day": 1.81
+    },
+    {
+      "sender": "m..scott@enron.com",
+      "n_sent": 540,
+      "emails_per_day": 1.63
+    },
+    {
+      "sender": "darrell.schoolcraft@enron.com",
+      "n_sent": 519,
+      "emails_per_day": 1.7
+    },
+    {
+      "sender": "bill.williams@enron.com",
+      "n_sent": 519,
+      "emails_per_day": 1.89
+    },
+    {
+      "sender": "chris.stokley@enron.com",
+      "n_sent": 513,
+      "emails_per_day": 2.49
+    },
+    {
+      "sender": "dutch.quigley@enron.com",
+      "n_sent": 505,
+      "emails_per_day": 1.71
+    }
+  ]
+}

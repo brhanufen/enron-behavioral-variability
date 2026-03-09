@@ -1,0 +1,9 @@
+{
+  "n_fitted": 58,
+  "best_K_dist": {
+    "3": 35,
+    "2": 23
+  },
+  "h2_pct_improving_10pct": 84.5,
+  "H2_pass": true
+}

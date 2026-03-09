@@ -1,0 +1,54 @@
+{
+  "source": "Carnegie Mellon University (www.cs.cmu.edu/~enron)",
+  "filename": "enron_mail_20150507.tar.gz",
+  "file_size_mb": 423,
+  "md5": "0dfec6b13323d01f4275c6913f461ac6",
+  "total_email_files": 517401,
+  "total_mailboxes_users": 150,
+  "corpus_structure": {
+    "format": "maildir (one file per email)",
+    "users_with_sent_items": 136,
+    "users_with_sent_folder": 89,
+    "users_with_sent_mail_folder": 78
+  },
+  "top_20_users_by_combined_sent": {
+    "mann-k": 8926,
+    "kaminski-v": 8623,
+    "dasovich-j": 5366,
+    "germany-c": 5128,
+    "shackleton-s": 4407,
+    "jones-t": 4123,
+    "bass-e": 3030,
+    "lenhart-m": 2759,
+    "beck-s": 2674,
+    "symes-k": 2649,
+    "scott-s": 2602,
+    "taylor-m": 2409,
+    "love-p": 2371,
+    "arnold-j": 2353,
+    "perlingiere-d": 2352,
+    "nemec-g": 2175,
+    "fossum-d": 2067,
+    "sanders-r": 2035,
+    "giron-d": 1880,
+    "lavorato-j": 1868
+  },
+  "date_range": {
+    "primary_span": "1999-2002",
+    "bulk_years": "2000-2001",
+    "note": "Some outlier dates (e.g. 1979, 0001) require filtering"
+  },
+  "threading_headers": {
+    "message_id_coverage": "100%",
+    "in_reply_to_count": 64,
+    "in_reply_to_coverage": "0.01%",
+    "references_coverage": "<0.01%",
+    "assessment": "CRITICAL: In-Reply-To/References headers essentially absent. Threading-based reply pairing NOT viable. Heuristic pairing (Subject Re: + time window) required.",
+    "re_subject_prevalence": "~30% of all emails have Re: in subject"
+  },
+  "contingency_trigger": {
+    "threading_coverage": "0.01% (well below 40% threshold)",
+    "action": "Paper pivots to SENDING-ACTIVITY analysis (Aims 1, 2, 4) as primary. Reply-time analysis via heuristic Subject+time pairing as supplementary.",
+    "reference": "Table 9, Contingency Row 2"
+  }
+}

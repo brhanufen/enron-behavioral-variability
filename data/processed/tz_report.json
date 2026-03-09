@@ -1,0 +1,21 @@
+{
+  "users_analyzed": 172,
+  "ambiguous_users": 0,
+  "most_common_offset": 4,
+  "offset_distribution": {
+    "-7": 2,
+    "-6": 1,
+    "-5": 1,
+    "-4": 4,
+    "-3": 5,
+    "-2": 16,
+    "-1": 23,
+    "0": 27,
+    "1": 16,
+    "2": 17,
+    "3": 11,
+    "4": 47,
+    "6": 2
+  },
+  "note": "Most common offset UTC+4 consistent with US Central Time (Enron HQ: Houston, TX)"
+}

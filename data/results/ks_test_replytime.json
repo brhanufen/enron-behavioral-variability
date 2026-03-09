@@ -1,0 +1,11 @@
+{
+  "aggregate": {
+    "D": 0.2515,
+    "p": 0.0
+  },
+  "per_user": {
+    "n_tested": 58,
+    "n_reject_005": 55,
+    "pct_reject": 94.8
+  }
+}
